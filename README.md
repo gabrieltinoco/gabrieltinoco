@@ -3,7 +3,7 @@
 Olá! Meu nome é Gabriel Lucas Tinoco de Aguiar, tenho 22 anos e sou de Belo Horizonte/MG. Sou um graduando em Engenharia de Software com sólida base em lógica de programação, desenvolvimento web e bancos de dados. Atualmente busco um estágio para aplicar meus conhecimentos, aprimorar minhas habilidades em programação e realizar a transição de carreira para a área de tecnologia, contribuindo para a solução de problemas reais por meio de software.
 
 <div align="left">
-  <a href="www.linkedin.com/in/gabriel-lucas-tinoco" target="_blank">
+  <a href="https://www.linkedin.com/in/gabriel-lucas-tinoco/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://wa.me/5531989188166" target="_blank">
